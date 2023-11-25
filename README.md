@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sai-Varun-M
-- 👀 I’m interested in Web Development and Data Structures
-- 🌱 I’m currently learning Web Development From Odin Project
-- 💞️ I’m looking to collaborate on Any Web Development Projects
+- 👀 I’m interested in Statistics and CyberSecurity
+- 🌱 I’m currently learning cybersecurity from Google's cybersecurity course
+- 💞️ I’m looking to collaborate on Any Of My Projects On My Profile 
 - 📫 How to reach me, You Can Mail Me at saivarun.m2661@gmail.com
 
 <!---
