@@ -1,30 +1,64 @@
-<h1 align="center">Hi 👋, I'm M. Sai Varun</h1>
-<h3 align="center">Aspiring Software Developer | Computer Science Student</h3>
+# 🚀 M. Sai Varun
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-varun-m&label=Profile%20views&color=0e75b6&style=flat" alt="sai-varun-m" /> </p>
+**`Aspiring Software Developer (CS Student | Tech Enthusiast)`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-varun-m" alt="sai-varun-m" /></a> </p>
+I'm a Computer Science student passionate about solving real-world problems with code.  
+From system-level programming in **C/C++** to building applications in **Python, JavaScript, and Dockerized environments**,  
+I enjoy exploring new technologies and continuously sharpening my development skills.  
+Currently, I’m working on diverse projects, practicing problem-solving, and building my portfolio.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sai-Varun-M](https://github.com/Sai-Varun-M)
-
-- 📫 How to reach me **saivarun.m2661@gmail.com**
-
-- 📄 Know about my experiences [https://sai-varun-m.github.io/SaiVarunMuthineni_Portfolio/](https://sai-varun-m.github.io/SaiVarunMuthineni_Portfolio/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sai varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai varun" height="30" width="40" /></a>
-<a href="https://instagram.com/sai_varun_muthineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_varun_muthineni" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/orewa varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="orewa varun" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saivarun_m2661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saivarun_m2661" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sai_varun_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai_varun_m" height="30" width="40" /></a>
+   <a href="https://github.com/Sai-Varun-M">
+      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Sai-Varun-M?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/Sai-Varun-M?tab=repositories&sort=stargazers">
+      <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sai-Varun-M?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://komarev.com/ghpvc/?username=sai-varun-m">
+      <img alt="profile views" title="Profile Views" src="https://komarev.com/ghpvc/?username=sai-varun-m&label=Views&color=0e75b6&style=for-the-badge"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-varun-m&show_icons=true&locale=en&layout=compact" alt="sai-varun-m" /></p>
+### 🧰 Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-varun-m&show_icons=true&locale=en" alt="sai-varun-m" /></p>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-varun-m&" alt="sai-varun-m" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-varun-m&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-varun-m&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com?user=sai-varun-m&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" /></p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sai-varun-4a5983282/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+<a href="https://instagram.com/sai_varun_muthineni" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+<a href="https://www.hackerrank.com/saivarun_m2661" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://leetcode.com/sai_varun_m" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+---
+
+### 📫 Contact
+
+- **Email:** saivarun.m2661@gmail.com  
+- **Portfolio:** [Sai Varun Portfolio](https://sai-varun-m.github.io/SaiVarunMuthineni_Portfolio/)  
+- **GitHub:** [github.com/Sai-Varun-M](https://github.com/Sai-Varun-M)
