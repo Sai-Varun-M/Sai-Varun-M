@@ -57,6 +57,10 @@ Currently, I’m working on diverse projects, practicing problem-solving, and bu
 
 ---
 
+### 🏆 Github Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-varun-m" alt="sai-varun-m" /></a> </p>
+
 ### 📫 Contact
 
 - **Email:** saivarun.m2661@gmail.com  
