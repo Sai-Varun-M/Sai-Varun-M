@@ -57,9 +57,6 @@ Currently, I’m working on diverse projects, practicing problem-solving, and bu
 
 ---
 
-### 🏆 Github Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Sai-Varun-M)](https://github.com/ryo-ma/github-profile-trophy)" alt="sai-varun-m" /></a> </p>
 
 ### 📫 Contact
 
